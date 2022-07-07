@@ -32,7 +32,7 @@
     "webpack": "^4.43.0",
     "css-loader": "^3.5.3",
     "style-loader": "^1.2.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "videojs-contrib-hls": "^5.15.0",
     "vue-video-player": "^5.0.2"
   },
